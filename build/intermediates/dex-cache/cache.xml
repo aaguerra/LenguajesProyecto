@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_458edf60ebfd03cf40db41f2c8620530cbb47785/classes.dex" />
+    </item>
+    <item
+        jar="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_a96afbb677e9f6e1b36a453aa4605182eeb5262c/classes.dex" />
+    </item>
+    <item
+        jar="/home/joelerll/Extra_Programs/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_df941fa9ad7ef89a259668a7b16d55f2ad6bc78b/classes.dex" />
+    </item>
+    <item
+        jar="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="399c1e7811f748819a55ad8a45b6e15c89c0328d">
+        <dex dex="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a9a275405e87c3aabaa4cd209a8ca3e627a7e9bf/classes.dex" />
+    </item>
+    <item
+        jar="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_a9bfd1f4ee12c92f9c8c198bf0e426deeea9484f/classes.dex" />
+    </item>
+    <item
+        jar="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f05f61ad7266dda16c51927bee20568a1a3d479d">
+        <dex dex="/home/joelerll/Downloads/Android/Camara/Green App/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eeab24203073a1dbe2a9143eff30ad1422ec2b9c/classes.dex" />
+    </item>
+
+</items>
